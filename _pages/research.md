@@ -38,7 +38,7 @@ My third line of research focuses on social mobility, i.e., how individuals move
 
 _Zheng, Haowen, Siwei Cheng, “Social Rigidity Across and Within Generations: A Predictive Approach” (R&R)_
 
-_Zheng, Haowen, Kristian B. Karlson, Anders Holm, and Robert Andersen, “College is Not ‘the’ Equalizer: Some Evidence on the Role of Unobserved Heterogeneity” (Under review)_
+_Zheng, Haowen, Kristian B. Karlson, Anders Holm, and Robert Andersen, “College is Not ‘the’ Equalizer: Some Evidence on the Role of Unobserved Heterogeneity” (Manuscript in preparation for journal submission)_
 
 _Zheng, Haowen. 2020. “The Only-child Premium and Moderation by Social Origin: Educational Stratification in Post-reform China.” Chinese Journal of Sociology, 6(3): 384-409" [Open access link](https://journals.sagepub.com/doi/full/10.1177/2057150X20934066)_
 
