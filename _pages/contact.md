@@ -14,5 +14,5 @@ Haowen Zheng
 Email: hz492@cornell.edu
 
 Twitter/X: [@zhenghaowen_soc](https://x.com/zhenghaowen_soc)
-[//]: # (<>Linkedin:)
+
 
