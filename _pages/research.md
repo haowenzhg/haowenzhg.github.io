@@ -33,7 +33,7 @@ The life chances of individuals and families depend on their geographic location
 _Rich, Peter, Haowen Zheng and Christian Sprague. “Inequality in the Competition for Access to High-Achieving and High-Growth Schools Across Metropolitan Area Housing Markets” (Working paper)_
 
 
-## Inter- and Intra-generational social mobility 
+## Inter- & Intra-generational social mobility 
 My third line of research engages with the literature on social mobility, i.e., how individuals move across socioeconomic positions across and within generations. I have examined how various factors shape social hierarchies and lead to structural inequalities between social groups, such as the role of education.
 
 _Zheng, Haowen, Siwei Cheng, “Social Rigidity Across and Within Generations: A Predictive Approach” (R&R)_
