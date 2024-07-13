@@ -12,3 +12,7 @@ Haowen Zheng
 109 Tower Road, Ithaca NY 14850
 
 Email: hz492@cornell.edu
+
+Twitter/X: [@zhenghaowen_soc](https://x.com/zhenghaowen_soc)
+[//]: # (<>Linkedin:)
+
