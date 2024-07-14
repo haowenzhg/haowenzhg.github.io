@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Sociology at Cornell University, with a minor in Demography. I obtained a Master's Degree in Applied Quantitative Research from New York University, and a Bachelor's Degree in English and Literature from Beijing Foreign Studies University.
+I am a PhD candidate in Sociology at Cornell University, with a minor in Demography. I obtained a master's degree in Applied Quantitative Research from New York University, and a bachelor's degree in English and Literature from Beijing Foreign Studies University.
 
 I am a quantitative sociologist with research interests in gender, social stratification & mobility, and spatial demography. I adopt a sociological lens to examine how interactions between social institutions produce and sustain inequality across generations and over the life course. Check out more [details](/research) about the three main lines of my research on gender inequality in labor market outcomes, the geography of stratification & spatial mobility, and inter- & intra-generational social mobility. 
 
