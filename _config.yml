@@ -10,7 +10,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Haowen Zheng | Cornell Sociology"
 title_separator          : "-"
 name                     : &name "Haowen Zheng | Cornell Sociology"
 description              : &description 
@@ -67,7 +67,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter/X        : "zhenghaowen_soc"
+  twitter/X        : "Zheng_Haowen_"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
