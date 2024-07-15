@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 ## Gender inequality in labor market outcomes
-Gender inequality is a multifaceted issue. Addressing gender inequality in the labor market, such as the gender earnings gap and occupational gender segregation, requires understanding mechanisms not only at the workplace, but also in relation to other social institutions, such as the family and educational system. My research draws from demographic frameworks and methods to offer innovative insights into this issue. 
+Much of my research uses demographic methods to examine the sources of gender differences in occupations and pay, focusing on how these labor market outcomes are affected by dynamics within the family and the education system.
 
 _Zheng, Haowen. “Competitive Income Trajectories: Gender Inequality in the Life Course Effects of Family Migration among Married Couples” (Dissertation chapter, currently under review)_
 * Kerckhoff Award (RC28)
@@ -28,7 +28,7 @@ _Zheng, Haowen, Kim A. Weeden. 2023. “How Gender Segregation in Higher Educati
 
 
 ## The geography of stratification & spatial mobility
-The life chances of individuals and families depend on their geographic location within a country. The other chapters in my dissertation examine the evolving geographic disparities in the distribution of opportunities at the local labor market level, and their implications for spatial mobility across local areas. Another related project examines the geographic distribution of educational opportunities across metropolitan areas and its implications for social mobility.
+The second line of my research examines the geographic disparities in the distribution of occupational and educational opportunities. Chapters in my dissertation examine how evolving local labor market contexts interact with individual characteristics to shape spatial mobility rates and patterns over time. A related project studies how access to good public schools varies across metropolitan housing markets.  
 
 _Rich, Peter, Haowen Zheng and Christian Sprague. “Inequality in the Competition for Access to High-Achieving and High-Growth Schools Across Metropolitan Area Housing Markets” (Working paper)_
 
