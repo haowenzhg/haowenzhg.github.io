@@ -18,7 +18,7 @@ _Zheng, Haowen. “Competitive Income Trajectories: Gender Inequality in the Lif
 * Kerckhoff Award (RC28)
 * Robin M. Williams, Jr. Best Paper Award (Cornell Sociology)
 
-_Zheng, Haowen, Kim A. Weeden. 2023. “How Gender Segregation in Higher Education Contributes to Gender Segregation in the U.S. Labor Market” Demography, 60(3), 761-784. [Open access link](https://read.dukeupress.edu/demography/article/60/3/761/351462/How-Gender-Segregation-in-Higher-Education) [Replication package](https://osf.io/h3t4w/?view_only=44ec8ff8e38840ec8014165d53c7e91b)_
+_Zheng, Haowen, Kim A. Weeden. 2023. “How Gender Segregation in Higher Education Contributes to Gender Segregation in the U.S. Labor Market” Demography, 60(3), 761-784. [Open access link](https://read.dukeupress.edu/demography/article/60/3/761/351462/How-Gender-Segregation-in-Higher-Education)_
 
 <details>
 
