@@ -7,7 +7,7 @@ author_profile: true
 
 ## Cornell University
 
-Fall 2024, Teaching Asistant, Introduction to Sociology (undergraduate level)
+Fall 2024, Teaching Assistant, Introduction to Sociology (undergraduate level)
 
 Spring 2023, Guest lecturer, Studying social inequality with data science (undergraduate level)
 
