@@ -14,7 +14,7 @@ author_profile: true
 ## Gender inequality in labor market outcomes
 Much of my research uses demographic methods to examine the sources of gender differences in occupations and pay, focusing on how these labor market outcomes are affected by dynamics within the family and the education system.
 
-_Zheng, Haowen. “Competitive Income Trajectories: Gender Inequality in the Life Course Effects of Family Migration among Married Couples” (Dissertation chapter, currently under review)_
+_Zheng, Haowen. “Diverging Trajectories: Gender Inequality in the Life Course Effects of Family Migration among Married Couples” (Dissertation chapter, currently under review)_
 * Kerckhoff Award (RC28)
 * Robin M. Williams, Jr. Best Paper Award (Cornell Sociology)
 
