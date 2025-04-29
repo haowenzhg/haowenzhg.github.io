@@ -14,7 +14,7 @@ author_profile: true
 ## Gender inequality in labor market outcomes
 Much of my research uses demographic methods to examine the sources of gender differences in occupations and pay, focusing on how these labor market outcomes are affected by dynamics within the family and the education system.
 
-_Zheng, Haowen. “Diverging Trajectories: Gender Inequality in the Life Course Effects of Family Migration among Married Couples” (Dissertation chapter, currently under review)_
+_Zheng, Haowen. (Paper on life course, family migration, and gender; under journal review)_
 * Kerckhoff Award (RC28)
 * Robin M. Williams, Jr. Best Paper Award (Cornell Sociology)
 
@@ -36,9 +36,9 @@ _Rich, Peter, Haowen Zheng and Christian Sprague. “Inequality in the Competiti
 ## Inter- & Intra-generational social mobility 
 My third line of research focuses on social mobility, i.e., how individuals move between socioeconomic positions across and within generations. My projects examine how various factors at different life stages, such as education, family background, and family structure, shape the inter- and intra-generational persistence of socioeconomic status. 
 
-_Zheng, Haowen, Siwei Cheng, “Social Rigidity Across and Within Generations: A Predictive Approach” (R&R)_
+_Zheng, Haowen, Siwei Cheng, “Social Rigidity Across and Within Generations: A Predictive Approach” (Conditionally Accepted, sociological Methods & Research)_
 
-_Zheng, Haowen, Kristian B. Karlson, Anders Holm, and Robert Andersen, “College is Not ‘the’ Equalizer: Some Evidence on the Role of Unobserved Heterogeneity” (Manuscript in preparation for journal submission)_
+_Zheng, Haowen, Kristian B. Karlson, Anders Holm, and Robert Andersen, (Paper on education and social mobility, under journal review)_
 
 _Zheng, Haowen. 2020. “The Only-child Premium and Moderation by Social Origin: Educational Stratification in Post-reform China.” Chinese Journal of Sociology, 6(3): 384-409 [Open access link](https://journals.sagepub.com/doi/full/10.1177/2057150X20934066)_
 
