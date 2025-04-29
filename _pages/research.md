@@ -36,7 +36,7 @@ _Rich, Peter, Haowen Zheng and Christian Sprague. “Inequality in the Competiti
 ## Inter- & Intra-generational social mobility 
 My third line of research focuses on social mobility, i.e., how individuals move between socioeconomic positions across and within generations. My projects examine how various factors at different life stages, such as education, family background, and family structure, shape the inter- and intra-generational persistence of socioeconomic status. 
 
-_Zheng, Haowen, Siwei Cheng, “Social Rigidity Across and Within Generations: A Predictive Approach” (Conditionally Accepted, sociological Methods & Research)_
+_Zheng, Haowen, Siwei Cheng, “Social Rigidity Across and Within Generations: A Predictive Approach” (Conditionally Accepted, Sociological Methods & Research)_
 
 _Zheng, Haowen, Kristian B. Karlson, Anders Holm, and Robert Andersen, (Paper on education and social mobility, under journal review)_
 
