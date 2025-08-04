@@ -15,6 +15,7 @@ author_profile: true
 Much of my research uses demographic methods to examine the sources of gender differences in occupations and pay, focusing on how these labor market outcomes are affected by dynamics within the family and the education system.
 
 _Zheng, Haowen. (Paper on life course, family migration, and gender; under journal review)_
+* ASA Sociology of Population Student Paper Award Honorable Mention
 * Kerckhoff Award (RC28)
 * Robin M. Williams, Jr. Best Paper Award (Cornell Sociology)
 
@@ -36,7 +37,7 @@ _Rich, Peter, Haowen Zheng and Christian Sprague. “Inequality in the Competiti
 ## Inter- & Intra-generational social mobility 
 My third line of research focuses on social mobility, i.e., how individuals move between socioeconomic positions across and within generations. My projects examine how various factors at different life stages, such as education, family background, and family structure, shape the inter- and intra-generational persistence of socioeconomic status. 
 
-_Zheng, Haowen, Siwei Cheng, “Social Rigidity Across and Within Generations: A Predictive Approach” (Conditionally Accepted, Sociological Methods & Research)_
+_Zheng, Haowen, Siwei Cheng, “Social Rigidity Across and Within Generations: A Predictive Approach” Sociological Methods & Research [Online first](https://journals.sagepub.com/doi/10.1177/00491241251347984)_
 
 _Zheng, Haowen, Kristian B. Karlson, Anders Holm, and Robert Andersen, (Paper on education and social mobility, under journal review)_
 
