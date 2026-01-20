@@ -9,7 +9,7 @@ author_profile: true
 
 Spring 2025, Excellence in Teaching, Cornell Sociology department
 
-	           Teaching Assistant, Social Inequality (undergraduate level)
+	         Teaching Assistant, Social Inequality (undergraduate level)
 
 Fall 2024,   Teaching Assistant, Introduction to Sociology (undergraduate level)
 
