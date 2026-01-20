@@ -7,11 +7,9 @@ author_profile: true
 
 Haowen Zheng
 
-364 Uris Hall, Cornell University
+Stone Center for Inequality Dynamics 426 Thompson St. Ann Arbor, MI 48109
 
-109 Tower Road, Ithaca NY 14850
-
-Email: hz492@cornell.edu
+Email: zhenghw@umich.edu
 
 [LinkedIn](https://www.linkedin.com/in/haowenzheng/)
 
