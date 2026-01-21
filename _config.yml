@@ -10,9 +10,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Haowen Zheng | Main page"
+title                    : "Haowen Zheng | Main Page"
 title_separator          : "-"
-name                     : &name "Haowen Zheng | Main page"
+name                     : &name "Haowen Zheng | Main Page"
 description              : &description 
 url                      : "https://haowenzhg.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
