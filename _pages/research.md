@@ -15,20 +15,21 @@ author_profile: true
 
 _Zheng, Haowen, Kristian B. Karlson, Anders Holm, and Robert Andersen, “Is College Really ‘the’ Equalizer: New Evidence Addressing Unobserved Selection” Sociological Science [Forthcoming]_
 <details>
-<summary> Click for Abstract: 
-Influential research shows that college graduates achieve similar labor market outcomes regardless of socioeconomic origin, leading to the view that a college degree is a “great equalizer.” Still, other evidence suggests that family background continues to shape labor market outcomes long after graduation, implying that college’s equalizing effect may largely reflect the characteristics of those who pursue higher education. However, the role of unobserved selection into college has rarely been examined. After formally illustrating how this unobserved selection can bias estimates of the college effect, we present new analyses that correct for this bias using an instrumental-variable approach on white male respondents in the 1979 cohort of the National Longitudinal Survey of Youth. The selection-corrected results suggest that intergenerational mobility is similar among college graduates and nongraduates. Although college yields substantial returns for all, these returns do not differ by family background. We conclude that for higher education to serve as a true equalizer, it must become both less selective and more accessible to students from disadvantaged backgrounds.
+  
+<summary> Click for Abstract: Influential research shows that college graduates achieve similar labor market outcomes regardless of socioeconomic origin, leading to the view that a college degree is a “great equalizer.” </summary> Still, other evidence suggests that family background continues to shape labor market outcomes long after graduation, implying that college’s equalizing effect may largely reflect the characteristics of those who pursue higher education. However, the role of unobserved selection into college has rarely been examined. After formally illustrating how this unobserved selection can bias estimates of the college effect, we present new analyses that correct for this bias using an instrumental-variable approach on white male respondents in the 1979 cohort of the National Longitudinal Survey of Youth. The selection-corrected results suggest that intergenerational mobility is similar among college graduates and nongraduates. Although college yields substantial returns for all, these returns do not differ by family background. We conclude that for higher education to serve as a true equalizer, it must become both less selective and more accessible to students from disadvantaged backgrounds.
+
 </details>
 
 ---
 
 _Zheng, Haowen, Siwei Cheng, “Social Rigidity Across and Within Generations: A Predictive Approach” Sociological Methods & Research [Online first](https://journals.sagepub.com/doi/10.1177/00491241251347984)_
 <details>
-
+  
 <summary> Click for Abstract: How well can individuals’ parental background and previous life experiences predict their mid-life socioeconomic status (SES) attainment?  </summary> This question is central to stratification research, as a strong power of earlier experiences in predicting later-life outcomes signals substantial intra- or intergenerational status persistence, or put simply, social rigidity. Running machine learning models on panel data to predict outcomes that include hourly wage, total income, family income, and occupational status, we find that a large number (around 4,000) of predictors commonly used in the stratification literature improves the prediction of one’s life chances in middle to late adulthood by about 10 percent to 50 percent, compared with a null model that uses a simple mean of the outcome variable. The level of predictability depends on the specific outcome being analyzed, with labor market indicators like wages and occupational prestige being more predictable than broader socioeconomic measures such as overall personal and family income. Grouping a comprehensive list of predictors into four unique sets that cover family background, childhood and adolescence development, early labor market experiences, and early adulthood family formation, we find that including income, employment status, and occupational characteristics at early career significantly improves models’ prediction accuracy for mid-life SES attainment. We also illustrate the application of the predictive models to examine heterogeneity in predictability by race and gender and identify important variables through this data-driven exercise.
 
 </details>
 
-
+---
 
 _Zheng, Haowen, Kim A. Weeden. 2023. “How Gender Segregation in Higher Education Contributes to Gender Segregation in the U.S. Labor Market” Demography, 60(3), 761-784. [Open access link](https://read.dukeupress.edu/demography/article/60/3/761/351462/How-Gender-Segregation-in-Higher-Education)_
 <details>
@@ -37,7 +38,7 @@ _Zheng, Haowen, Kim A. Weeden. 2023. “How Gender Segregation in Higher Educati
 
 </details>
 
-
+---
 
 _Zheng, Haowen. 2020. “The Only-child Premium and Moderation by Social Origin: Educational Stratification in Post-reform China.” Chinese Journal of Sociology, 6(3): 384-409 [Open access link](https://journals.sagepub.com/doi/full/10.1177/2057150X20934066)_
 <details>
@@ -48,7 +49,7 @@ _Zheng, Haowen. 2020. “The Only-child Premium and Moderation by Social Origin:
 
 </details>
 
-
+---
 
 
 ## Working papers
