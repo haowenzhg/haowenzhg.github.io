@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow at the Stone Center for Inequality Dynamics, University of Michigan. 
+I am a Postdoctoral Fellow at the Stone Center for Inequality Dynamics, Institute for Social Research, University of Michigan. 
 
 I am a quantitative sociologist with research interests in social stratification & mobility, gender, and spatial demography. My research focuses on how labor market contexts, families, and educational institutions structure social outcomes across groups and places. A primary line of my research concerns geographic stratification of opportunities and long-distance spatial mobility. In my dissertation, I investigate links between local labor market structures, family demographic changes, and patterns of migration, and I show that these spatial mobility patterns lead to gender inequality in earnings. I also engage in collaborative projects on educational and housing contexts in metropolitan areas, gendered consequences of migration in comparative settings, and the health consequences of spatial mobility.
 
