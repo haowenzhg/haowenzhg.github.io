@@ -7,7 +7,8 @@ author_profile: true
 
 Haowen Zheng
 
-Stone Center for Inequality Dynamics 426 Thompson St. Ann Arbor, MI 48109
+Stone Center for Inequality Dynamics 
+426 Thompson St. Ann Arbor, MI 48109
 
 Email: zhenghw@umich.edu
 
