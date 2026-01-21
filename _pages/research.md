@@ -69,7 +69,7 @@ _Zheng, Haowen. “How Demographic Changes Drive Internal Migration Decline Amon
 _Zheng, Haowen, Yongxin Shang, Adriana Reyes. “Uprooted for Opportunities Elsewhere: How Internal Migration Impacts Subjective Well-being”_
 
 
-_Rich, Peter, Haowen Zheng and Christian Sprague. “Inequality in the Competition for Access to High-Achieving and High-Growth Schools Across Metropolitan Area Housing Markets” (Working paper)_
+_Rich, Peter, Haowen Zheng and Christian Sprague. “Inequality in the Competition for Access to High-Achieving and High-Growth Schools Across Metropolitan Area Housing Markets”_
 
 
 
