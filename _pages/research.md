@@ -11,31 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
-## Gender inequality in labor market outcomes
-Much of my research uses demographic methods to examine the sources of gender differences in occupations and pay, focusing on how these labor market outcomes are affected by dynamics within the family and the education system.
+## Peer-reviewed publications
 
-_Zheng, Haowen. (Paper on life course, family migration, and gender; under journal review)_
-* ASA Sociology of Population Student Paper Award Honorable Mention
-* Kerckhoff Award (RC28)
-* Robin M. Williams, Jr. Best Paper Award (Cornell Sociology)
-
-_Zheng, Haowen, Kim A. Weeden. 2023. “How Gender Segregation in Higher Education Contributes to Gender Segregation in the U.S. Labor Market” Demography, 60(3), 761-784. [Open access link](https://read.dukeupress.edu/demography/article/60/3/761/351462/How-Gender-Segregation-in-Higher-Education)_
-
+_Zheng, Haowen, Kristian B. Karlson, Anders Holm, and Robert Andersen, “Is College Really ‘the’ Equalizer: New Evidence Addressing Unobserved Selection” Sociological Science [Forthcoming]_
 <details>
 
-<summary> Click for Abstract: What is the relationship between gender segregation in higher education and gender segregation in the labor market? </summary> Using Fossett's (2017) difference-of-means method for calculating segregation indices and data from the American Community Survey, we show that approximately 36% of occupational segregation among college-educated workers is associated with gender segregation across 173 fields of study, and roughly 64% reflects gender segregation within fields. A decomposition analysis shows that fields contribute to occupational segregation mainly through endowment effects (men's and women's uneven distribution across fields) than through the coefficient effects (gender differences in the likelihood of entering a male-dominated occupation from the same field). Endowment effects are highest in fields strongly linked to the labor market, suggesting that educational segregation among fields in which graduates tend to enter a limited set of occupations is particularly consequential for occupational segregation. Within-field occupational segregation is higher among heavily male-dominated fields than other fields, but it does not vary systematically by fields' STEM status or field–occupation linkage strength. Assuming the relationship between field segregation and occupational segregation is at least partly causal, these results imply that integrating higher education (e.g., by increasing women's representation in STEM majors) will reduce but not eliminate gender segregation in labor markets.
+<summary> Click for Abstract: 
+Influential research shows that college graduates achieve similar labor market outcomes regardless of socioeconomic origin, leading to the view that a college degree is a “great equalizer.” Still, other evidence suggests that family background continues to shape labor market outcomes long after graduation, implying that college’s equalizing effect may largely reflect the characteristics of those who pursue higher education. However, the role of unobserved selection into college has rarely been examined. After formally illustrating how this unobserved selection can bias estimates of the college effect, we present new analyses that correct for this bias using an instrumental-variable approach on white male respondents in the 1979 cohort of the National Longitudinal Survey of Youth. The selection-corrected results suggest that intergenerational mobility is similar among college graduates and nongraduates. Although college yields substantial returns for all, these returns do not differ by family background. We conclude that for higher education to serve as a true equalizer, it must become both less selective and more accessible to students from disadvantaged backgrounds.
 
 </details>
-
-
-## The geography of stratification & spatial mobility
-The second line of my research examines the geographic disparities in the distribution of occupational and educational opportunities. Chapters in my dissertation examine how evolving local labor market contexts interact with individual characteristics to shape spatial mobility rates and patterns over time. A related project studies how access to good public schools varies across metropolitan housing markets.  
-
-_Rich, Peter, Haowen Zheng and Christian Sprague. “Inequality in the Competition for Access to High-Achieving and High-Growth Schools Across Metropolitan Area Housing Markets” (Working paper)_
-
-
-## Inter- & Intra-generational social mobility 
-My third line of research focuses on social mobility, i.e., how individuals move between socioeconomic positions across and within generations. My projects examine how various factors at different life stages, such as education, family background, and family structure, shape the inter- and intra-generational persistence of socioeconomic status. 
 
 _Zheng, Haowen, Siwei Cheng, “Social Rigidity Across and Within Generations: A Predictive Approach” Sociological Methods & Research [Online first](https://journals.sagepub.com/doi/10.1177/00491241251347984)_
 <details>
@@ -44,10 +28,16 @@ _Zheng, Haowen, Siwei Cheng, “Social Rigidity Across and Within Generations: A
 
 </details>
 
-_Zheng, Haowen, Kristian B. Karlson, Anders Holm, and Robert Andersen, (Paper on education and social mobility, under journal review)_
+
+_Zheng, Haowen, Kim A. Weeden. 2023. “How Gender Segregation in Higher Education Contributes to Gender Segregation in the U.S. Labor Market” Demography, 60(3), 761-784. [Open access link](https://read.dukeupress.edu/demography/article/60/3/761/351462/How-Gender-Segregation-in-Higher-Education)_
+<details>
+
+<summary> Click for Abstract: What is the relationship between gender segregation in higher education and gender segregation in the labor market? </summary> Using Fossett's (2017) difference-of-means method for calculating segregation indices and data from the American Community Survey, we show that approximately 36% of occupational segregation among college-educated workers is associated with gender segregation across 173 fields of study, and roughly 64% reflects gender segregation within fields. A decomposition analysis shows that fields contribute to occupational segregation mainly through endowment effects (men's and women's uneven distribution across fields) than through the coefficient effects (gender differences in the likelihood of entering a male-dominated occupation from the same field). Endowment effects are highest in fields strongly linked to the labor market, suggesting that educational segregation among fields in which graduates tend to enter a limited set of occupations is particularly consequential for occupational segregation. Within-field occupational segregation is higher among heavily male-dominated fields than other fields, but it does not vary systematically by fields' STEM status or field–occupation linkage strength. Assuming the relationship between field segregation and occupational segregation is at least partly causal, these results imply that integrating higher education (e.g., by increasing women's representation in STEM majors) will reduce but not eliminate gender segregation in labor markets.
+
+</details>
+
 
 _Zheng, Haowen. 2020. “The Only-child Premium and Moderation by Social Origin: Educational Stratification in Post-reform China.” Chinese Journal of Sociology, 6(3): 384-409 [Open access link](https://journals.sagepub.com/doi/full/10.1177/2057150X20934066)_
-
 <details>
 
 <summary> Click for Abstract: The One Child Policy initiated in the late 1970s created a birth cohort with an unusually high proportion of only children. This paper examines the relationship between being the only child in the family and educational attainment, as well as its potential variations by social origin. </summary> Drawing my sample from the China Family Panel Studies, I compare two birth cohorts born before and after the birth-control policy. Results show that in the younger cohort, being the only child in the family produces a premium in educational outcomes, including years of completed schooling and odds of progressing through critical grade transitions. In addition, I observe a pattern that the only-child premium tends to be larger for people with higher social origins in competitive grade transitions.
@@ -55,3 +45,23 @@ _Zheng, Haowen. 2020. “The Only-child Premium and Moderation by Social Origin:
 * Master's Award for Academic Achievement in the Social Sciences, New York University
 
 </details>
+
+
+
+## Working papers
+
+_Zheng, Haowen. (Paper on life course, family migration, and gender; under journal review)_
+* ASA Sociology of Population Student Paper Award Honorable Mention
+* Kerckhoff Award (RC28)
+* Robin M. Williams, Jr. Best Paper Award (Cornell Sociology)
+
+_Zheng, Haowen. "Occupational Restructuring and the Decline of Internal Migration by College Status, 1980-2019"_
+
+_Zheng, Haowen. “How Demographic Changes Drive Internal Migration Decline Among Heterosexual Couples: A Cohort-Based Approach”_
+
+_Zheng, Haowen, Yongxin Shang, Adriana Reyes. “Uprooted for Opportunities Elsewhere: How Internal Migration Impacts Subjective Well-being”_
+
+_Rich, Peter, Haowen Zheng and Christian Sprague. “Inequality in the Competition for Access to High-Achieving and High-Growth Schools Across Metropolitan Area Housing Markets” (Working paper)_
+
+
+
