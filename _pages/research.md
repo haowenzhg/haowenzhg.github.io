@@ -13,7 +13,7 @@ author_profile: true
 
 ## Peer-reviewed publications
 
-_Zheng, Haowen, Kristian B. Karlson, Anders Holm, and Robert Andersen, “Is College Really ‘the’ Equalizer: New Evidence Addressing Unobserved Selection” Sociological Science [Forthcoming]_
+_Zheng, Haowen, Anders Holm, Robert Andersen, and Kristian B. Karlson, “Is College Really ‘the’ Equalizer: New Evidence Addressing Unobserved Selection” Sociological Science [Forthcoming]_
 <details>
   
 <summary> Click for Abstract: Influential research shows that college graduates achieve similar labor market outcomes regardless of socioeconomic origin, leading to the view that a college degree is a “great equalizer.” Still, other evidence suggests that family background continues to shape labor market outcomes long after graduation, implying that college’s equalizing effect may largely reflect the characteristics of those who pursue higher education. However, the role of unobserved selection into college has rarely been examined. </summary> After formally illustrating how this unobserved selection can bias estimates of the college effect, we present new analyses that correct for this bias using an instrumental-variable approach on white male respondents in the 1979 cohort of the National Longitudinal Survey of Youth. The selection-corrected results suggest that intergenerational mobility is similar among college graduates and nongraduates. Although college yields substantial returns for all, these returns do not differ by family background. We conclude that for higher education to serve as a true equalizer, it must become both less selective and more accessible to students from disadvantaged backgrounds.
