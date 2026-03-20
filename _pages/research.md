@@ -13,6 +13,18 @@ author_profile: true
 
 ## Peer-reviewed publications
 
+
+_Zheng, Haowen. “Diverging Trajectories: Gendered Income Dynamics Pre- and Post-Family Migration” (Accepted) Demographic Research_
+<details>
+  
+<summary> Click for Abstract: Gender differences in the returns to migration remain substantial, yet we know little about how they unfold over the life course. </summary> Using NLSY79 linked-couple data and event-study methods that track income trajectories before and long after a move, this study shows that men experience sustained gains for up to 15 years, while women face short-term losses that fade without producing long-term benefits. The findings highlight family migration as a persistent source of gender inequality. </details>
+
+* ASA Sociology of Population Student Paper Award Honorable Mention
+* Kerckhoff Award (RC28)
+* Robin M. Williams, Jr. Best Paper Award (Cornell Sociology)
+
+---
+
 _Zheng, Haowen, Anders Holm, Robert Andersen, and Kristian B. Karlson. 2026. “Is College Really ‘the’ Equalizer: New Evidence Addressing Unobserved Selection” Sociological Science, 13: 242-272 [Open access link](https://sociologicalscience.com/articles-v13-10-242/)_
 <details>
   
@@ -48,28 +60,5 @@ _Zheng, Haowen. 2020. “The Only-child Premium and Moderation by Social Origin:
 * Master's Award for Academic Achievement in the Social Sciences, New York University
 
 </details>
-
----
-
-
-## Working papers
-
-_Zheng, Haowen. (Paper on life course, family migration, and gender; under journal review)_
-* ASA Sociology of Population Student Paper Award Honorable Mention
-* Kerckhoff Award (RC28)
-* Robin M. Williams, Jr. Best Paper Award (Cornell Sociology)
-
-
-_Zheng, Haowen. "Occupational Restructuring and the Decline of Internal Migration by College Status, 1980-2019"_
-
-
-_Zheng, Haowen. “How Demographic Changes Drive Internal Migration Decline Among Heterosexual Couples: A Cohort-Based Approach”_
-
-
-_Zheng, Haowen, Yongxin Shang, Adriana Reyes. “Uprooted for Opportunities Elsewhere: How Internal Migration Impacts Subjective Well-being”_
-
-
-_Rich, Peter, Haowen Zheng and Christian Sprague. “Inequality in the Competition for Access to High-Achieving and High-Growth Schools Across Metropolitan Area Housing Markets”_
-
 
 
