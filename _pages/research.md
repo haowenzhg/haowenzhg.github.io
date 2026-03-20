@@ -17,7 +17,7 @@ author_profile: true
 _Zheng, Haowen. “Diverging Trajectories: Gendered Income Dynamics Pre- and Post-Family Migration” (Accepted) Demographic Research_
 <details>
   
-<summary> Click for Abstract: Gender differences in the returns to migration remain substantial, yet we know little about how they unfold over the life course. </summary> Using NLSY79 linked-couple data and event-study methods that track income trajectories before and long after a move, this study shows that men experience sustained gains for up to 15 years, while women face short-term losses that fade without producing long-term benefits. The findings highlight family migration as a persistent source of gender inequality. 
+<summary> Click for Abstract: Gender differences in the returns to migration on labor market outcomes remain substantial, yet we know little about how they unfold over the life course. </summary> Using NLSY79 linked-couple data and event-study methods that track income trajectories before and long after a move, this study shows that men experience income sustained gains for up to 15 years, while women face short-term losses that fade without producing long-term benefits. The findings highlight family migration as a persistent source of gender inequality. 
 
 </details>
 * ASA Sociology of Population Student Paper Award Honorable Mention
