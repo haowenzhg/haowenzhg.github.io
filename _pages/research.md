@@ -20,8 +20,8 @@ _Zheng, Haowen. “Diverging Trajectories: Gendered Income Dynamics Pre- and Pos
 <summary> Click for summary: Gender differences in the returns to migration on labor market outcomes remain substantial, yet we know little about how they unfold over the life course. </summary> Using NLSY79 linked-couple data and event-study methods that track income changes before and long after a move, this study shows that men experience cumulative income gains for up to 15 years, while women face sharp short-term penalties that peak around five years after moving and decline gradually, with no long-term advantage over stayers. The findings highlight family migration as a persistent source of gender inequality. 
 
 </details>
-* ASA Sociology of Population Student Paper Award Honorable Mention
-* Kerckhoff Award (RC28)
+* Graduate Student Paper Award Honorable Mention, Sociology of Population, American Sociological Association (ASA)
+* Kerckhoff Award, Research Committee 28 on Social Stratification and Mobility (RC28), International Sociological Association
 * Robin M. Williams, Jr. Best Paper Award, Sociology Department, Cornell University
 
 ---
