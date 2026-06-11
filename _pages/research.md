@@ -22,7 +22,7 @@ _Zheng, Haowen. “Diverging Trajectories: Gendered Income Dynamics Pre- and Pos
 </details>
 * ASA Sociology of Population Student Paper Award Honorable Mention
 * Kerckhoff Award (RC28)
-* Robin M. Williams, Jr. Best Paper Award (Cornell Sociology)
+* Robin M. Williams, Jr. Best Paper Award, Sociology Department, Cornell University
 
 ---
 
